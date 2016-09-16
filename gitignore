@@ -31,7 +31,6 @@
 *.iws
 
 ## Plugin-specific files:
-
 # IntelliJ
 /out/
 
